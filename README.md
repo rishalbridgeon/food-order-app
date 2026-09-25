@@ -8,7 +8,9 @@ It is one self-contained file written in vanilla HTML, CSS and JavaScript. There
 |---|---|---|
 | ![Menu page in light mode](screenshots/menu-light.png) | ![Cart drawer in dark mode](screenshots/cart-dark.png) | <img src="screenshots/checkout-mobile.png" alt="Checkout form on a phone" width="220"> |
 
-## Run it
+**Live demo: https://rishalbridgeon.github.io/food-order-app/**
+
+## Run it locally
 
 Download or clone the repo and open `index.html` in any modern browser. That's it.
 
